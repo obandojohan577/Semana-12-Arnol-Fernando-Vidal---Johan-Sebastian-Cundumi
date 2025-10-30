@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718595972971",
+    "project_id": "registrar-app-android",
+    "storage_bucket": "registrar-app-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718595972971:android:e2f1f556436eecae98362e",
+        "android_client_info": {
+          "package_name": "com.example.semana12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHE7CgG9PNNiLxKFQFvbUa-rNd_mIwci0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
